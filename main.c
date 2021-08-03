@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <malloc.h>
+#include <stdlib.h>
 typedef struct PolyNode *Polynomial;
 struct PolyNode{
     int coef;
